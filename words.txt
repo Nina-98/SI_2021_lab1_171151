@@ -3,3 +3,4 @@ leb
 mobilen
 jabolko
 sliva
+luk
